@@ -1,0 +1,16 @@
+
+#
+
+[2017-09-14 15:25:21.525302] Analyzing data: slp_all with suffix: _detrended
+[2017-09-14 15:25:21.525325] NBootstraps: 0 NComps: 107 UseSurrModel: False CosWeight: True Detrend: True Gamma: 1
+[2017-09-14 15:25:21.525376] Loading geo field slp_all ...
+[2017-09-14 15:25:22.746753] Analyzing data ...
+[2017-09-14 15:31:50.415093] **DEBUG**: reconstruction check, diff from original SVD 0.00161844
+[2017-09-14 15:31:50.415153] Total variance 12802.7 explained by selected components 0.763619.
+[2017-09-14 15:35:46.157679] **DEBUG** Rot*Rot^T - I = 2.90231e-10
+[2017-09-14 15:35:46.305128] **DEBUG** Ur - Ud*Rot MSE os: 2.27849e-05
+[2017-09-14 15:35:51.807626] **DEBUG**: reconstruction check, MSE is from rotated 0.398549
+[2017-09-14 15:35:51.873163] **DEBUG**: average variance of data 0.6103
+[2017-09-14 15:35:51.879060] Starting workers
+[2017-09-14 15:35:51.913938] Running parallel bootstrap with 0 iterations at 2017-09-14 15:35:51.913883
+[2017-09-14 16:03:39.203015] Data saved to file /media/peer/fast_data/results_rpca/xizka/data_in/slp_all_var_b0_cosweights_varimax_detrended.bin.

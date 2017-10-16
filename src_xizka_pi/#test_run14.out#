@@ -1,0 +1,98 @@
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+/home/peer/code2/ndw-climate/src/geo_field.py:262: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if self.cos_weights != None:
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 405, in _handle_results
+    cache[job]._set(i, obj)
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 608, in _set
+    self._callback(self._value)
+  File "geo_data_estimate_component_count_pool.py", line 215, in <lambda>
+    pool.map_async(compute_surrogate_cov_eigvals, [sgf]*todo, callback=lambda x: append_to_arrays(slam_ar, slam_w1, slam_f, x))
+  File "geo_data_estimate_component_count_pool.py", line 75, in append_to_arrays
+    slam_f[surr_completed,:] = slam_fi
+ValueError: could not broadcast input array from shape (834) into shape (836)
+

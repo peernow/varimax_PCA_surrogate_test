@@ -1,0 +1,24 @@
+/apps/python/lib/python2.3/site-packages/matplotlib-0.90.1-py2.3-linux-x86_64.egg/matplotlib/__init__.py:271: SyntaxWarning: assertion is always true, perhaps remove parentheses?
+  assert(callable, func)
+Traceback (most recent call last):
+  File "geo_data_estimate_component_count_pool.py", line 7, in <module>
+    from geo_field import GeoField
+  File "/export131/home/pnowack/working_code_varimax/ndw-climate/src/geo_field.py", line 9, in <module>
+    import scipy.signal as sps
+  File "/home/pnowack/anaconda2/lib/python2.7/site-packages/scipy/signal/__init__.py", line 307, in <module>
+    from .ltisys import *
+  File "/home/pnowack/anaconda2/lib/python2.7/site-packages/scipy/signal/ltisys.py", line 30, in <module>
+    from scipy import integrate, interpolate, linalg
+  File "/home/pnowack/anaconda2/lib/python2.7/site-packages/scipy/interpolate/__init__.py", line 176, in <module>
+    from .interpolate import *
+  File "/home/pnowack/anaconda2/lib/python2.7/site-packages/scipy/interpolate/interpolate.py", line 32, in <module>
+    from .interpnd import _ndim_coords_from_arrays
+  File "scipy/interpolate/interpnd.pyx", line 1, in init scipy.interpolate.interpnd (scipy/interpolate/interpnd.c:25150)
+  File "/home/pnowack/anaconda2/lib/python2.7/site-packages/scipy/spatial/__init__.py", line 94, in <module>
+    from .ckdtree import *
+  File "scipy/spatial/ckdtree.pyx", line 20, in init scipy.spatial.ckdtree (scipy/spatial/ckdtree.cxx:19180)
+  File "/home/pnowack/anaconda2/lib/python2.7/multiprocessing/__init__.py", line 65, in <module>
+    from multiprocessing.util import SUBDEBUG, SUBWARNING
+  File "/home/pnowack/anaconda2/lib/python2.7/multiprocessing/util.py", line 41, in <module>
+    from subprocess import _args_from_interpreter_flags
+ImportError: cannot import name _args_from_interpreter_flags

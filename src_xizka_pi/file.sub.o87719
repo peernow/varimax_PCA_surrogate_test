@@ -1,0 +1,26 @@
+<type 'netCDF4._netCDF4.Dimension'> (unlimited): name = 't', size = 3600
+
+<type 'netCDF4._netCDF4.Variable'>
+float32 temp(t, ht, latitude, longitude)
+    source: Unified Model Output (Vn 8.2):
+    name: temp
+    title: Temperature T
+    date: 01/09/99
+    time: 00:00
+    long_name: Temperature T
+    standard_name: air_temperature
+    units: K
+    missing_value: 2e+20
+    _FillValue: 2e+20
+    valid_min: 204.748
+    valid_max: 322.721
+unlimited dimensions: t
+current shape = (3600, 1, 145, 192)
+filling off
+
+(3600, 145, 192) dimensions data
+ 
+Imperial College London HPC Service
+-----------------------------------
+Job file.sub, jobid 87719.cx1, username pnowack - end of execution at 20:55:31 Fri 08/09/17 on system cx1-138-13-4
+ 

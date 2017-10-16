@@ -1,0 +1,11 @@
+#1;4205;0c[2017-08-29 17:11:11.727854] Loading geo field...
+[2017-08-29 17:11:11.923371] Number of eigenvalues set automatically to length of time series 835.
+[2017-08-29 17:11:11.923402] Analyzing data: slp_all with suffix: _detrended_400k
+[2017-08-29 17:11:11.923408] Nsurr: 40 Muvar: False UseSurrModel: False CosWeight: True NumEigvals: 835 Detrend: True
+[2017-08-29 17:11:12.026680] Done loading, data has shape (835, 71, 144).
+[2017-08-29 17:11:12.026705] Constructing surrogate model ...
+[2017-08-29 17:11:27.423293] Surrogate model constructed.
+[2017-08-29 17:11:27.423321] Computing eigenvalues of dataset ...
+[2017-08-29 17:11:32.466769] Rendering orders of fitted AR models.
+[2017-08-29 17:11:33.120177] Constructing pool
+[2017-08-29 17:11:33.185829] Running parallel generation of surrogates and analysis.

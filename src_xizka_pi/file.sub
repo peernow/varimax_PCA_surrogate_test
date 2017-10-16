@@ -1,0 +1,19 @@
+#!/bin/sh
+#PBS -l walltime=48:00:00
+## This tells the batch manager to limit the walltime for the job to 3 hours 1 second.
+
+#PBS -l select=1:ncpus=12:mem=50000mb
+## This tells the batch manager to use 1 node with 12 cpus and 1800 mb of memory.
+
+/apps/memusage/memusage app_name app_param
+cp $TMPDIR/memusage.* $PBS_O_WORKDIR
+
+module load intel-suite mpi
+module load anaconda2/personal
+## This jobs requires the Intel math kernel so we must load it at run time.
+python2.7 /home/pnowack/working_code_varimax/ndw-climate/src_xizka_pi/geo_data_estimate_component_count_pool.py > $TMPDIR/output_xizka_100
+
+cp $TMPDIR/output_xizka_100 $WORK/output_jobs/xizka_100_all_years
+
+## This tells the batch manager to execute the program foo in the examples
+## directory of the users home directory. 

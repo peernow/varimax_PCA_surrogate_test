@@ -1,0 +1,5 @@
+/export131/home/pnowack/working_code_varimax/ndw-climate/src_xizka_pi/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+/export131/home/pnowack/working_code_varimax/ndw-climate/src_xizka_pi/var_model.py:49: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  return self.A.shape[1] if self.A != None else 0
+=>> PBS: job killed: ncpus 22.85 exceeded limit 12 (sum)
